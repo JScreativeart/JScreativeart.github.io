@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x44d671Ca69D37E71dAF2f8D6c13b180538550556",
+  "SCAN_LINK": "https://polygonscan.com/address/0x44d671Ca69D37E71dAF2f8D6c13b180538550556",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Controller Heads",
+  "SYMBOL": "CH",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 20000000000000000000,
+  "DISPLAY_COST": 20,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/controller-heads",
+  "SHOW_BACKGROUND": true
+}
